@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\bin\Debug\AVL-TREES.exe.config
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\bin\Debug\AVL-TREES.exe
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\bin\Debug\AVL-TREES.pdb
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\obj\Debug\AVL-TREES.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\obj\Debug\AVL-TREES.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\obj\Debug\AVL-TREES.exe
+C:\Users\admin\source\repos\AVL-TREES\AVL-TREES\obj\Debug\AVL-TREES.pdb
